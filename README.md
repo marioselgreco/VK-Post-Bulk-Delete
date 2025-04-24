@@ -8,7 +8,7 @@ A JavaScript script that automatically deletes posts from your VK (VKontakte) wa
 - Handles both English ("Delete") and Russian ("Удалить") interfaces
 - Properly waits for menus and dialogs to appear
 - Auto-scrolls to load more posts
-- Works with VK's current (2023) interface
+- Works with VK's current (2025) interface
 
 ## How to Use
 
